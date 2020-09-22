@@ -1,0 +1,50 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <style>.taibun {font-family: 'jf-openhuninn-1.1', sans-serif;}
+.tone_number {font-family: 'Impact'; stroke: purple; fill: purple;}
+.sandhi_tone {font-family: 'Bauhaus 93', '華康儷金黑 Std W8'; fill: red; font-size: 40px; !important}</style>
+ <defs>
+  <radialGradient r="0.5" cy="0.5" cx="0.5" spreadMethod="pad" id="svg_6">
+   <stop offset="0" stop-color="#fff"/>
+   <stop offset="1" stop-opacity="0.30078" stop-color="#dd89a8"/>
+  </radialGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="url(#svg_6)" id="canvas_background" height="482" width="642" y="-1" x="-1"/>
+  <g display="none" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%" id="svg_1"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_2" y2="101" x2="640" y1="101" x1="0" fill-opacity="null" stroke-width="5" stroke="#FFAC8D" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_5" y2="101" x2="144" y1="101" x1="94" fill-opacity="null" stroke-width="5" stroke="#74556D" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_3" y2="131" x2="640" y1="131" x1="0" fill-opacity="null" stroke-width="5" stroke="#FFAC8D" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_4" y2="161" x2="640" y1="161" x1="0" fill-opacity="null" stroke-width="5" stroke="#FFAC8D" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_7" y2="161" x2="214" y1="101" x1="164" fill-opacity="null" stroke-width="5" stroke="#74556D" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_8" y2="161" x2="284" y1="161" x1="234" fill-opacity="null" stroke-width="5" stroke="#74556D" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_9" y2="101" x2="354" y1="161" x1="304" fill-opacity="null" stroke-width="5" stroke="#74556D" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_10" y2="131" x2="424" y1="131" x1="374" fill-opacity="null" stroke-width="5" stroke="#74556D" fill="none"/>
+  <text xml:space="preserve" text-anchor="start" font-size="24" id="svg_11" y="65" x="109" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000" class="tone_number">1</text>
+  <text xml:space="preserve" text-anchor="start" font-size="24" id="svg_12" y="65" x="179" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000" class="tone_number">2</text>
+  <text xml:space="preserve" text-anchor="start" font-size="24" id="svg_13" y="65" x="249" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000" class="tone_number">3</text>
+  <text xml:space="preserve" text-anchor="start" font-size="24" id="svg_14" y="65" x="319" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000" class="tone_number">5</text>
+  <text xml:space="preserve" text-anchor="start" font-size="24" id="svg_15" y="65" x="389" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000" class="tone_number">7</text>
+  <text xml:space="preserve" text-anchor="start" font-size="24" id="svg_16" y="201" x="109" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#74556D" fill="#000000" class="taibun">a</text>
+  <text xml:space="preserve" text-anchor="start" font-size="24" id="svg_17" y="201" x="179" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#74556D" fill="#000000" class="taibun">á</text>
+  <text xml:space="preserve" text-anchor="start" font-size="24" id="svg_18" y="201" x="249" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#74556D" fill="#000000" class="taibun">à</text>
+  <text xml:space="preserve" text-anchor="start" font-size="24" id="svg_19" y="201" x="319" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#74556D" fill="#000000" class="taibun">â</text>
+  <text xml:space="preserve" text-anchor="start" font-size="24" id="svg_20" y="201" x="389" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#74556D" fill="#000000" class="taibun">ā</text>
+  <text xml:space="preserve" text-anchor="start" id="svg_21" y="250" x="109" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000" class="tone_number sandhi_tone">7</text>
+  <text xml:space="preserve" text-anchor="start" id="svg_22" y="250" x="179" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000" class="tone_number sandhi_tone">1</text>
+  <text xml:space="preserve" text-anchor="start" id="svg_23" y="250" x="249" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000" class="tone_number sandhi_tone">2</text>
+  <text xml:space="preserve" text-anchor="start" id="svg_24" y="250" x="319" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000" class="tone_number sandhi_tone">7</text>
+  <text xml:space="preserve" text-anchor="start" id="svg_25" y="250" x="389" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000" class="tone_number sandhi_tone">3</text>
+  <text xml:space="preserve" text-anchor="start" font-family="null" font-size="24" id="svg_26" y="248.01666" x="4" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#74556D" fill="#000000" class="sandhi_tone">變調</text>
+  <text fill="#000000" stroke="#74556D" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="452.5" y="334.01666" id="svg_27" font-size="8" font-family="null" text-anchor="start" xml:space="preserve">
+   <tspan id="svg_28">GHSRobert</tspan>
+   <tspan id="svg_29" dy="1.4em" x="452.5">愛灣語</tspan>
+  </text>
+ </g>
+</svg>
