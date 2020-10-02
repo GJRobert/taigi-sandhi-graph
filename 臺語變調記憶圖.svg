@@ -46,14 +46,13 @@
   <text class="tone_number" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="635.32822" y="65" id="svg_53" font-size="24" text-anchor="start" xml:space="preserve" stroke-dasharray="5,5">8</text>
   <text class="taibun" fill="#000000" stroke="#74556D" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="559.32516" y="201" id="svg_54" font-size="24" text-anchor="start" xml:space="preserve" stroke-dasharray="5,5">ap</text>
   <text stroke-dasharray="5,5" class="taibun" fill="#000000" stroke="#74556D" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="630.32516" y="201" id="svg_55" font-size="24" text-anchor="start" xml:space="preserve">a̍p</text>
-  <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="554.32516" y="250" id="svg_56" text-anchor="start" xml:space="preserve">高</text>
-  <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="624.32516" y="250" id="svg_57" text-anchor="start" xml:space="preserve">低</text>
+  <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="563" y="250" id="svg_56" text-anchor="start" xml:space="preserve">1</text>
   <line fill="none" stroke="#74556D" stroke-width="5" fill-opacity="null" x1="562.32516" y1="131" x2="582.32516" y2="131" id="svg_30" stroke-linejoin="undefined" stroke-linecap="undefined"/>
   <line fill="none" stroke="#74556D" stroke-width="5" fill-opacity="null" x1="582.32516" y1="125" x2="582.32516" y2="137" id="svg_31" stroke-linejoin="undefined" stroke-linecap="undefined"/>
   <line fill="none" stroke="#74556D" stroke-width="5" fill-opacity="null" x1="630.29333" y1="101.00018" x2="649.95963" y2="101.00018" id="svg_32" stroke-linejoin="undefined" stroke-linecap="undefined"/>
   <line fill="none" stroke="#74556D" stroke-width="5" fill-opacity="null" x1="650.29333" y1="95" x2="650.29333" y2="107" id="svg_33" stroke-linejoin="undefined" stroke-linecap="undefined"/>
   <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="563.32516" y="302" id="svg_35" text-anchor="start" xml:space="preserve">2</text>
-  <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="633.32516" y="302" id="svg_34" text-anchor="start" xml:space="preserve">3</text>
+  <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="633.32516" y="275" id="svg_34" text-anchor="start" xml:space="preserve">3</text>
   <g transform="matrix(-0.899605, 0, 0, 0.763883, 275.536, -14.4488)" stroke="red" fill="none" id="svg_41">
    <g stroke="red" fill="none" id="svg_42">
     <path d="m-447.64337,289.89896c-9.50494,4.51678 -14.08905,12.202 -13.8194,20.22437c0.26971,8.02243 4.11334,42.65463 -10.14575,46.19955c-0.06,2.57999 0.06006,5.84711 0,8.42706c14.50171,3.13702 10.32568,38.3559 10.10089,46.28894c-0.22479,7.93298 4.35919,15.61798 13.86432,20.13501l0,-7.888c-14.25641,-4.25104 -8.14734,-25.64404 -10.49408,-42.42401c-2.34668,-16.7793 -8.7196,-20.25922 -8.7196,-20.25922c0,0 6.48151,-3.73868 8.76923,-20.43491c2.2876,-16.69629 -3.67297,-37.91147 10.44446,-42.38138l0,-7.88751l-0.00006,0l0,0.00003l0,0.00003l0,0.00003z" stroke="red" fill="none" id="svg_43"/>
@@ -79,7 +78,7 @@
   <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="258.32822" y="398" id="svg_39" text-anchor="start" xml:space="preserve">7</text>
   <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="398.32822" y="398" id="svg_40" text-anchor="start" xml:space="preserve">7</text>
   <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="633.32822" y="398" id="svg_48" text-anchor="start" xml:space="preserve">7</text>
-  <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="554.32822" y="398" id="svg_51" text-anchor="start" xml:space="preserve">高</text>
+  <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="563" y="398" id="svg_51" text-anchor="start" xml:space="preserve">1</text>
   <g transform="matrix(0.671165, 0, 0, 1.18864, 120.228, -37.7633)" stroke="red" fill="none" id="svg_60">
    <g stroke="red" fill="none" id="svg_59">
     <path d="m-16.48238,230.03851c-9.5054,4.51682 -14.08972,12.20203 -13.82001,20.22443c0.26968,8.0224 4.11349,42.6546 -10.1459,46.19949c-0.06,2.57999 0.06,5.84711 0,8.42706c14.50201,3.13702 10.32581,38.3559 10.10101,46.28894c-0.22482,7.93298 4.35938,15.61798 13.8649,20.13501l0,-7.888c-14.25702,-4.25104 -8.14771,-25.64404 -10.49451,-42.42404c-2.3468,-16.7793 -8.71991,-20.25919 -8.71991,-20.25919c0,0 6.48172,-3.73868 8.7695,-20.43488c2.28772,-16.69623 -3.6731,-37.91148 10.44492,-42.38136l0,-7.88751l0,0.00003l0,0.00002z" stroke="red" fill="none" id="svg_58"/>
@@ -88,7 +87,7 @@
   <a id="svg_62">
    <g id="svg_61">
     <text xml:space="preserve" text-anchor="start" font-family="'PT Sans','Heiti TC'" font-size="8" id="svg_27" y="387.0168" x="728.49999" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#24644e" fill="#24644e">
-     <tspan id="svg_28">GHSRobert</tspan>
+     <tspan x="728.49999" id="svg_28">GHSRobert</tspan>
      <tspan x="728.49999" dy="1.8em" id="svg_29">愛灣語</tspan>
      <tspan id="svg_63" x="728.49999" dy="1.8em">Taigi123.ga</tspan>
     </text>
