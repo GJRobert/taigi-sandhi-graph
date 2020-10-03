@@ -24,7 +24,7 @@
   <line fill="none" stroke="#FFDFB8" stroke-width="5" fill-opacity="null" x1="0" y1="161" x2="800" y2="161" id="svg_4" stroke-linejoin="undefined" stroke-linecap="undefined"/>
   <line fill="none" stroke="#74556D" stroke-width="5" fill-opacity="null" x1="173.32822" y1="101" x2="223.32822" y2="161" id="svg_7" stroke-linejoin="undefined" stroke-linecap="undefined"/>
   <line fill="none" stroke="#74556D" stroke-width="5" fill-opacity="null" x1="243.32822" y1="161" x2="293.32822" y2="161" id="svg_8" stroke-linejoin="undefined" stroke-linecap="undefined"/>
-  <line fill="none" stroke="#74556D" stroke-width="5" fill-opacity="null" x1="313.32822" y1="161" x2="363.32822" y2="101" id="svg_9" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <line fill="none" stroke="#74556D" stroke-width="5" fill-opacity="null" x1="313.32822" y1="161" x2="363.32822" y2="131" id="svg_9" stroke-linejoin="undefined" stroke-linecap="undefined"/>
   <line fill="none" stroke="#74556D" stroke-width="5" fill-opacity="null" x1="383.32822" y1="131" x2="433.32822" y2="131" id="svg_10" stroke-linejoin="undefined" stroke-linecap="undefined"/>
   <text class="tone_number" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="118.32822" y="65" id="svg_11" font-size="24" text-anchor="start" xml:space="preserve">1</text>
   <text class="tone_number" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="188.32822" y="65" id="svg_12" font-size="24" text-anchor="start" xml:space="preserve">2</text>
@@ -71,11 +71,11 @@
    </clipPath>
   </defs>
   <metadata id="svg_73">image/svg+xml</metadata>
-  <text stroke-dasharray="5,5" class="taibun" fill="#000000" stroke="#74556D" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="625.32516" y="342" id="svg_38" font-size="20" text-anchor="start" xml:space="preserve">a̍p--á</text>
-  <text class="taibun" fill="#000000" stroke="#74556D" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="253.32822" y="342" id="svg_47" font-size="20" text-anchor="start" xml:space="preserve" stroke-dasharray="5,5">à--á</text>
-  <text class="taibun" fill="#000000" stroke="#74556D" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="394.32822" y="342" id="svg_49" font-size="20" text-anchor="start" xml:space="preserve" stroke-dasharray="5,5">ā--á</text>
-  <text class="taibun" fill="#000000" stroke="#74556D" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="551.32516" y="342" id="svg_50" font-size="20" text-anchor="start" xml:space="preserve" stroke-dasharray="5,5">ap--á</text>
-  <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="258.32822" y="398" id="svg_39" text-anchor="start" xml:space="preserve">7</text>
+  <text stroke-dasharray="5,5" class="taibun" fill="#000000" stroke="#74556D" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="625.32516" y="342" id="svg_38" font-size="20" text-anchor="start" xml:space="preserve">a̍p-á</text>
+  <text class="taibun" fill="#000000" stroke="#74556D" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="253.32822" y="342" id="svg_47" font-size="20" text-anchor="start" xml:space="preserve" stroke-dasharray="5,5">à-á</text>
+  <text class="taibun" fill="#000000" stroke="#74556D" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="394.32822" y="342" id="svg_49" font-size="20" text-anchor="start" xml:space="preserve" stroke-dasharray="5,5">ā-á</text>
+  <text class="taibun" fill="#000000" stroke="#74556D" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="551.32516" y="342" id="svg_50" font-size="20" text-anchor="start" xml:space="preserve" stroke-dasharray="5,5">ap-á</text>
+  <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="258.32822" y="398" id="svg_39" text-anchor="start" xml:space="preserve">1</text>
   <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="398.32822" y="398" id="svg_40" text-anchor="start" xml:space="preserve">7</text>
   <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="633.32822" y="398" id="svg_48" text-anchor="start" xml:space="preserve">7</text>
   <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="563" y="398" id="svg_51" text-anchor="start" xml:space="preserve">1</text>
@@ -90,6 +90,7 @@
      <tspan x="728.49999" id="svg_28">GHSRobert</tspan>
      <tspan x="728.49999" dy="1.8em" id="svg_29">愛灣語</tspan>
      <tspan id="svg_63" x="728.49999" dy="1.8em">Taigi123.ga</tspan>
+     <tspan id="svg_57" x="728.49999" dy="1.8em">v1.2</tspan>
     </text>
     <g id="svg_76">
      <g transform="matrix(0.05, 0, 0, 0.05, 0, 0)" id="svg_65">
