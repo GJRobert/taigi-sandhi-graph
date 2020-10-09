@@ -86,11 +86,11 @@
   </g>
   <a id="svg_62">
    <g id="svg_61">
-    <text xml:space="preserve" text-anchor="start" font-family="'PT Sans','Heiti TC'" font-size="8" id="svg_27" y="387.0168" x="728.49999" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#24644e" fill="#24644e">
+    <text xml:space="preserve" text-anchor="start" font-family="'PT Sans','Heiti TC'" font-size="8pt" id="svg_27" y="387.0168" x="728.49999" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#24644e" fill="#24644e">
      <tspan x="728.49999" id="svg_28">GHSRobert</tspan>
-     <tspan x="728.49999" dy="1.8em" id="svg_29">愛灣語</tspan>
-     <tspan id="svg_63" x="728.49999" dy="1.8em">Taigi123.ga</tspan>
-     <tspan id="svg_57" x="728.49999" dy="1.8em">v1.2</tspan>
+     <tspan x="728.49999" dy="11pt" id="svg_29">愛灣語</tspan>
+     <tspan id="svg_63" x="728.49999" dy="11pt">Taigi123.ga</tspan>
+     <tspan id="svg_57" x="728.49999" dy="11pt">v1.2</tspan>
     </text>
     <g id="svg_76">
      <g transform="matrix(0.05, 0, 0, 0.05, 0, 0)" id="svg_65">
@@ -108,5 +108,6 @@
     </g>
    </g>
   </a>
+  <text xml:space="preserve" text-anchor="end" font-family="CHei3HK-Bold, sans-serif" font-size="16" id="svg_64" y="21" x="795" stroke-width="0" stroke="#000" fill="darkslategrey"><tspan id="svg_75" x="795">臺灣閩南語</tspan><tspan fill="blue" id="svg_77" x="795" dy="16pt">混合腔</tspan><tspan id="svg_78">聲調</tspan></text>
  </g>
 </svg>
