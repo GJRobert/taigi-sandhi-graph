@@ -2,7 +2,8 @@
  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
  <style>.taibun {font-family: 'jf-openhuninn-1.1', sans-serif;}
 .tone_number {font-family: 'Impact'; stroke: purple; fill: purple;}
-.sandhi_tone {font-family: 'Bauhaus 93', '華康儷金黑 Std W8'; fill: red; font-size: 40px; !important}</style>
+.sandhi_tone {font-family: 'Bauhaus 93', '華康儷金黑 Std W8'; fill: red; font-size: 40px; !important}
+.special {fill: magenta; stroke: magenta !important}</style>
  <defs>
   <radialGradient id="svg_6" spreadMethod="pad" cx="0.5" cy="0.5" r="0.5">
    <stop stop-color="#fff" offset="0"/>
@@ -37,9 +38,9 @@
   <text class="taibun" fill="#000000" stroke="#74556D" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="328.32822" y="201" id="svg_19" font-size="24" text-anchor="start" xml:space="preserve" stroke-dasharray="5,5">â</text>
   <text class="taibun" fill="#000000" stroke="#74556D" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="398.32822" y="201" id="svg_20" font-size="24" text-anchor="start" xml:space="preserve" stroke-dasharray="5,5">ā</text>
   <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="118.32822" y="275" id="svg_21" text-anchor="start" xml:space="preserve">7</text>
-  <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="188.32822" y="275" id="svg_22" text-anchor="start" xml:space="preserve">1</text>
+  <text class="tone_number sandhi_tone special" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="188.32822" y="275" id="svg_22" text-anchor="start" xml:space="preserve">9</text>
   <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="258.32822" y="275" id="svg_23" text-anchor="start" xml:space="preserve">2</text>
-  <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="328.32822" y="275" id="svg_24" text-anchor="start" xml:space="preserve">7</text>
+  <text class="tone_number sandhi_tone special" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="328.32822" y="275" id="svg_24" text-anchor="start" xml:space="preserve">3</text>
   <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="398.32822" y="275" id="svg_25" text-anchor="start" xml:space="preserve">3</text>
   <text class="sandhi_tone" fill="#000000" stroke="#74556D" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="2" y="335.01666" id="svg_26" font-size="24" font-family="null" text-anchor="start" xml:space="preserve">變調</text>
   <text class="tone_number" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="565.32516" y="65" id="svg_52" font-size="24" text-anchor="start" xml:space="preserve" stroke-dasharray="5,5">4</text>
@@ -49,8 +50,7 @@
   <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="563" y="250" id="svg_56" text-anchor="start" xml:space="preserve">1</text>
   <line fill="none" stroke="#74556D" stroke-width="5" fill-opacity="null" x1="562.32516" y1="131" x2="582.32516" y2="131" id="svg_30" stroke-linejoin="undefined" stroke-linecap="undefined"/>
   <line fill="none" stroke="#74556D" stroke-width="5" fill-opacity="null" x1="582.32516" y1="125" x2="582.32516" y2="137" id="svg_31" stroke-linejoin="undefined" stroke-linecap="undefined"/>
-  <line fill="none" stroke="#74556D" stroke-width="5" fill-opacity="null" x1="630.29333" y1="101.00018" x2="649.95963" y2="101.00018" id="svg_32" stroke-linejoin="undefined" stroke-linecap="undefined"/>
-  <line fill="none" stroke="#74556D" stroke-width="5" fill-opacity="null" x1="650.29333" y1="95" x2="650.29333" y2="107" id="svg_33" stroke-linejoin="undefined" stroke-linecap="undefined"/>
+  <line class="special" fill="none" stroke="#74556D" stroke-width="5" fill-opacity="null" x1="625" y1="131" x2="655" y2="101.00018" id="svg_32" stroke-linejoin="undefined" stroke-linecap="undefined"/>
   <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="563.32516" y="302" id="svg_35" text-anchor="start" xml:space="preserve">2</text>
   <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="633.32516" y="275" id="svg_34" text-anchor="start" xml:space="preserve">3</text>
   <g transform="matrix(-0.899605, 0, 0, 0.763883, 275.536, -14.4488)" stroke="red" fill="none" id="svg_41">
@@ -72,9 +72,11 @@
   </defs>
   <metadata id="svg_73">image/svg+xml</metadata>
   <text stroke-dasharray="5,5" class="taibun" fill="#000000" stroke="#74556D" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="625.32516" y="342" id="svg_38" font-size="20" text-anchor="start" xml:space="preserve">a̍p-á</text>
+  <text class="taibun" fill="#000000" stroke="#74556D" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="183.32822" y="342" font-size="20" text-anchor="start" xml:space="preserve" stroke-dasharray="5,5">á-á</text>
   <text class="taibun" fill="#000000" stroke="#74556D" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="253.32822" y="342" id="svg_47" font-size="20" text-anchor="start" xml:space="preserve" stroke-dasharray="5,5">à-á</text>
   <text class="taibun" fill="#000000" stroke="#74556D" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="394.32822" y="342" id="svg_49" font-size="20" text-anchor="start" xml:space="preserve" stroke-dasharray="5,5">ā-á</text>
   <text class="taibun" fill="#000000" stroke="#74556D" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="551.32516" y="342" id="svg_50" font-size="20" text-anchor="start" xml:space="preserve" stroke-dasharray="5,5">ap-á</text>
+  <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="188.32822" y="398" text-anchor="start" xml:space="preserve">1</text>
   <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="258.32822" y="398" id="svg_39" text-anchor="start" xml:space="preserve">1</text>
   <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="398.32822" y="398" id="svg_40" text-anchor="start" xml:space="preserve">7</text>
   <text class="tone_number sandhi_tone" fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="633.32822" y="398" id="svg_48" text-anchor="start" xml:space="preserve">7</text>
@@ -108,6 +110,6 @@
     </g>
    </g>
   </a>
-  <text xml:space="preserve" text-anchor="end" font-family="CHei3HK-Bold, sans-serif" font-size="16" id="svg_64" y="21" x="795" stroke-width="0" stroke="#000" fill="darkslategrey"><tspan id="svg_75" x="795">臺灣閩南語</tspan><tspan fill="blue" id="svg_77" x="795" dy="16pt">南部腔</tspan><tspan id="svg_78">聲調</tspan></text>
+  <text xml:space="preserve" text-anchor="end" font-family="CHei3HK-Bold, sans-serif" font-size="16" id="svg_64" y="21" x="795" stroke-width="0" stroke="#000" fill="darkslategrey"><tspan id="svg_75" x="795">臺灣閩南語</tspan><tspan fill="blue" id="svg_77" x="795" dy="16pt">偏泉腔</tspan><tspan id="svg_78">聲調</tspan></text>
  </g>
 </svg>
